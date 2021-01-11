@@ -1,0 +1,1 @@
+export {setContainer,open,play,pause,seek,stop,destroy} from './playback-functions';
