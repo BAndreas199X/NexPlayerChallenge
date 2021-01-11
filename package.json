@@ -2,8 +2,14 @@
   "name": "nex-player-challenge",
   "version": "1.0.0",
   "description": "\"This project ecompases my results for the challenge given to me by NexPlayer.\\nFor details please check the adjacent .pdf-File\"",
-  "main": "index.js",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
   "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
