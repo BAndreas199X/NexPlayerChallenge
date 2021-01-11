@@ -2,11 +2,11 @@
 //I want to check whether the functions get called correctly before potentially putting effort into the implementation in vain 
 
 export function setContainer(divId:String) {
-    console.log("Oxen");
+    console.log("Oxen "+divId);
 }
 
 export function open(videoUrl:String) {
-    console.log("Tiger");
+    console.log("Tiger "+videoUrl);
 }
 
 export function play(){
@@ -18,7 +18,7 @@ export function pause(){
 }
 
 export function seek(at:number) {
-    console.log("Horse");
+    console.log("Horse "+at);
 }
 
 export function stop() {

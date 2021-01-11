@@ -1,6 +1,6 @@
 {
   "name": "nex-player-challenge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "\"This project ecompases my results for the challenge given to me by NexPlayer.\\nFor details please check the adjacent .pdf-File\"",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
