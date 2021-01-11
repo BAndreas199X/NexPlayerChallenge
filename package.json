@@ -1,0 +1,24 @@
+{
+  "name": "nex-player-challenge",
+  "version": "1.0.0",
+  "description": "\"This project ecompases my results for the challenge given to me by NexPlayer.\\nFor details please check the adjacent .pdf-File\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BAndreas199X/NexPlayerChallenge.git"
+  },
+  "keywords": [
+    "nexplayer",
+    "video",
+    "streaming"
+  ],
+  "author": "Andreas Bauer <bauerandreas1991@gmx.de>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BAndreas199X/NexPlayerChallenge/issues"
+  },
+  "homepage": "https://github.com/BAndreas199X/NexPlayerChallenge#readme"
+}
